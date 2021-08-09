@@ -6,6 +6,6 @@
 #Enderpearls time cooldown.
 duracion: 15
 #Mensaje de texto del cooldown de la ender pearl (%tiempo% es el tiempo restante).
-#Text when enderpear is on cooldown (%tiempo% is the time remaining).
+#Text when enderpearl is on cooldown (%tiempo% is the time remaining).
 
-mensaje: "&6[&5&lAlpina&f&lCraft&6] &dPuedes usar otra enderpearl en %tiempo%."
+mensaje: "§6[§5§lAlpina§f§lCraft§6] §dPuedes usar otra enderpearl en %tiempo%."

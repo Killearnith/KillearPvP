@@ -33,7 +33,7 @@ public final class KillearPvP extends JavaPlugin implements Listener{
         getServer().getConsoleSender().sendMessage(ChatColor.RED + "[KillearPvP]: esta activo!");
 
         // Plugin startup logic
-        //this.getCommand("KPvP").setExecutor(new CommandKPvP());   [NO FUNCIONA]
+
         //activación del comando
 
     }
