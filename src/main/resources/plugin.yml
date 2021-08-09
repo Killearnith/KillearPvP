@@ -4,8 +4,3 @@ main: killearzone.killearpvp.KillearPvP
 api-version: 1.16
 authors: [ Killearnith ]
 description: This plugin makes the user choose the invulnerability frames of a mob/player.
-commands:
-  KPvP:
-    description: Establece el tiempo de invulnerabilidad de las entidades
-    usage: /<command>
-    permission: KillearPvP.KPvP
