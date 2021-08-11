@@ -5,7 +5,11 @@
 #Cooldown de la enderpearl (en segundos)--------------------
 #Enderpearls time cooldown.
 duracion: 15
-#Mensaje de texto del cooldown de la ender pearl (%tiempo% es el tiempo restante).
-#Text when enderpearl is on cooldown (%tiempo% is the time remaining).
+#Cooldown de la manzanda dorada encantada (en segundos)--------------------
+#Enchanted Golden Apple time cooldown.
+duraciongapple: 10
+#Mensaje de texto del cooldown de la ender pearl y manzana encantada. (%tiempo% es el tiempo restante).
+#Text when enderpearl/enchanted golden apple is on cooldown (%tiempo% is the time remaining).
 
-mensaje: "§6[§5§lAlpina§f§lCraft§6] §dPuedes usar otra enderpearl en %tiempo%."
+mensaje: "§6[§5§lAlpina§f§lCraft§6] §dPuedes usar otra enderpearl en §e%tiempo%."
+mensajegapple: "§6[§5§lAlpina§f§lCraft§6] §dPuedes usar otra gapple en §e%tiempo%."
