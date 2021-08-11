@@ -3,4 +3,4 @@ version: ${project.version}
 main: killearzone.killearpvp.KillearPvP
 api-version: 1.16
 authors: [ Killearnith ]
-description: This plugin makes the user choose the invulnerability frames of a mob/player.
+description: This plugin puts cooldown on certain items like EnderPearls o Golden Apples.
